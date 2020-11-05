@@ -1,0 +1,13 @@
+# Open command prompt from this folder
+# and run slidesense
+source: $YAMLPATH/template.pptx
+data:
+  url: $YAMLPATH/people.csv
+rules:
+  - copy-slide: data
+    Name:
+      text: copy.val.Name
+    Course:
+      text: copy.val.Course
+    Date:
+      text: copy.val.Date
