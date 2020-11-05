@@ -12,6 +12,10 @@
 * PowerPoint is the most popular tool for presenting data. With almost 1 billion users, PowerPoint is the largest medium to communicate data. (Source: Microsoft, ZDNet).
 * Even BI Platform users copy-paste screenshots into PowerPoint. What if we could generate them natively ?
 
+##### Notes:
+1. [Presentation Link](https://github.com/NAnnamalai/pyconf2020/blob/main/data-driven-presentations.pptx)
+2. [Code](https://github.com/NAnnamalai/pyconf2020/tree/main/certificates)
+
 #### Prerequisites:
 1. Run `!pip install gramex` on a [Google Colab](https://colab.research.google.com/) notebook
 2. (OR) Run `pip install gramex` on your system. See [installation help](https://learn.gramener.com/guide/install/) if needed.
